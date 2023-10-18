@@ -1,1 +1,1 @@
-test editr from local Repos
+test editor from local Repos
